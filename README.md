@@ -21,7 +21,6 @@ Meu nome é Victor Gabriel, mas pode me chamar de Bevenuto tenho 17 anos e sou d
 </p>
 
 ![bevenuto's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Bevenut0&show_icons=true&theme=dark)
-
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Bevenut0&layout=compact&icons=true&theme=dark)
 
 
@@ -124,6 +123,3 @@ Meu nome é Victor Gabriel, mas pode me chamar de Bevenuto tenho 17 anos e sou d
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-[![Bevenuto's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=Bevenut0&icons=true&theme=dark) ](https://github.com/Bevenut0/github-readme-stats-fast)
