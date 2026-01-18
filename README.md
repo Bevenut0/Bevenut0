@@ -53,6 +53,15 @@ Meu nome é Victor Gabriel, mas pode me chamar de Bevenuto tenho 17 anos e sou d
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+<img 
+    align="left" 
+    alt="sass" 
+    title="Sass"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+/>
+
 
 
 
