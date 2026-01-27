@@ -10,15 +10,6 @@ Meu nome é Victor Gabriel, mas pode me chamar de Bevenuto tenho 17 anos e sou d
  #### Resumindo:
 - Sou bastante interessado em novas linguagens, faço piadas sem graça e gosto de café ☕
 - Gosto de ler livros e documentações das linguagens 📖
-<p align="left">
-    <a href="https://github.com/bevenut0?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Bevenut0?color=292929&labelColor=2c2f33&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
 
 ![bevenuto's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Bevenut0&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Bevenut0&layout=compact&icons=true&theme=dark)
