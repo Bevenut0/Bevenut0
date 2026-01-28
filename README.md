@@ -19,6 +19,15 @@ Meu nome é Victor Gabriel, mas pode me chamar de Bevenuto tenho 17 anos e sou d
 ---
 
 ###  🖥 Linguagens :
+
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
 <img 
     align="left" 
     alt="JavaScript" 
@@ -61,6 +70,24 @@ Meu nome é Victor Gabriel, mas pode me chamar de Bevenuto tenho 17 anos e sou d
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Angular"
+    title="Angular" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+
+
 
 
 
@@ -89,14 +116,6 @@ Meu nome é Victor Gabriel, mas pode me chamar de Bevenuto tenho 17 anos e sou d
 
 <img 
     align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
     alt="lua"
     title="lua" 
     width="30px" 
@@ -120,14 +139,6 @@ Meu nome é Victor Gabriel, mas pode me chamar de Bevenuto tenho 17 anos e sou d
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
 <img 
     align="left" 
     alt="react"
