@@ -11,7 +11,6 @@ Meu nome é Victor Gabriel, mas pode me chamar de Bevenuto tenho 17 anos e sou d
 - Sou bastante interessado em novas linguagens, faço piadas sem graça e gosto de café ☕
 - Gosto de ler livros e documentações das linguagens 📖
 
-![bevenuto's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Bevenut0&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Bevenut0&layout=compact&icons=true&theme=dark)
 
 
@@ -80,6 +79,14 @@ Meu nome é Victor Gabriel, mas pode me chamar de Bevenuto tenho 17 anos e sou d
 />
 <img 
     align="left" 
+    alt="react"
+    title="react" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Java"
     title="Java" 
     width="30px" 
@@ -139,14 +146,6 @@ Meu nome é Victor Gabriel, mas pode me chamar de Bevenuto tenho 17 anos e sou d
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="react"
-    title="react" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
 
 
 
