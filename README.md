@@ -15,6 +15,8 @@ Meu nome é Victor Gabriel, mas pode me chamar de Bevenuto tenho 17 anos e sou d
 
 
 
+
+
 ---
 
 ###  🖥 Linguagens :
@@ -94,6 +96,14 @@ Meu nome é Victor Gabriel, mas pode me chamar de Bevenuto tenho 17 anos e sou d
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Linux"
+    title="Linux" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+/>
 
 
 
