@@ -5,7 +5,7 @@
 Meu nome é Victor Gabriel, mas pode me chamar de Bevenuto tenho 17 anos e sou da Bahia de Feira de Santana. Estou cursando Tecnico em Química e Tecnico emAdministração, Desenvolvo aplicações Web em torno de 3~4 anos, e estou seguindo em frente para conseguir meu primeiro emprego;
 
 - Faço curso da Ebac de Desing Grafico e Programador Full Stack Python
-- Fiz Parte da DevClub em 2024
+- Fui aluno da DevClub
 - Curso Front em no Gráu Tecnico Profissionalizante
  #### Resumindo:
 - Sou bastante interessado em novas linguagens, faço piadas sem graça e gosto de café ☕
