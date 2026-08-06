@@ -28,7 +28,7 @@
 
 Olá! Meu nome é **Victor Gabriel**, mas pode me chamar de **Bevenuto**.
 
-🎓 Atualmente curso **Técnico em Química** e **Técnico em Administração**.
+🎓 Atualmente curso **Técnico em Química** e **Técnico em Desenvolvimento de Sistemas**.
 
 💻 Desenvolvo aplicações Web há aproximadamente **4 anos**, criando sistemas completos, automações, APIs e interfaces modernas.
 
