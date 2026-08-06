@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="700"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeThqY3p2a3hldTNsdGR6Y29sN2I2MTNiM295azNodmNxeDAyaWlzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/z8PnRIErvyIp30bG9S/giphy.gif" width="700"/>
 </p>
 
 <h1 align="center">👋 Hello World! Eu sou o Bevenuto</h1>
