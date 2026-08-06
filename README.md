@@ -1,239 +1,116 @@
-
-
 <p align="center">
-  <img src="LINK_DO_GIF" width="700px">
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="700"/>
 </p>
 
 <h1 align="center">👋 Hello World! Eu sou o Bevenuto</h1>
 
 <h3 align="center">
-💻 Full Stack Developer • 🐧 Linux Enthusiast • ☕ Coffee Lover
+💻 Desenvolvedor Full Stack • 🐧 Linux Enthusiast • ☕ Coffee Lover
 </h3>
 
 <p align="center">
-<a href="https://github.com/Bevenut0">
-<img src="https://img.shields.io/github/followers/Bevenut0?style=for-the-badge&logo=github&label=Followers"/>
-</a>
-
-<img src="https://img.shields.io/badge/Idade-17-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Bahia-Feira_de_Santana-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge"/>
-
+    <a href="https://github.com/Bevenut0">
+        <img src="https://img.shields.io/github/followers/Bevenut0?style=for-the-badge&logo=github&label=Followers"/>
+    </a>
+    <img src="https://img.shields.io/badge/Open%20To-Work-success?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Feira%20de%20Santana-BA-blue?style=for-the-badge"/>
 </p>
 
 ---
 
-# 👨🏻‍💻 Sobre mim
+## 👨‍💻 Sobre mim
 
 Olá! Meu nome é **Victor Gabriel**, mas pode me chamar de **Bevenuto**.
 
-🎓 Atualmente curso **Técnico em Química** e **Técnico em Administração**.
+🎓 Estudante de **Técnico em Química** e **Técnico em Administração**.
 
-💻 Desenvolvo aplicações Web há aproximadamente **4 anos**, sempre buscando aprender novas tecnologias e criar soluções modernas.
+🚀 Desenvolvedor Full Stack com aproximadamente **4 anos** de experiência desenvolvendo aplicações Web.
 
-🚀 Meu principal objetivo é conquistar minha primeira oportunidade como **Desenvolvedor Full Stack**, contribuindo em projetos reais e evoluindo continuamente.
-
----
-
-# 📚 Formação
-
-- 📖 Full Stack Python — EBAC
-- 🎨 Design Gráfico — EBAC
-- 💻 DevClub
-- 🌐 Front-end — No Grau Técnico
+💡 Apaixonado por Linux, programação, automações e sempre aprendendo algo novo.
 
 ---
 
-# 🚀 Tecnologias
-
-## 💻 Linguagens
-
-<p>
-
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-
-</p>
-
----
-
-## ⚛️ Front-end
-
-<p>
-
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"/>
-
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
-
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-
-</p>
-
----
-
-## 🔥 Back-end
-
-<p>
-
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
-
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-
-</p>
-
----
-
-## 🛠 Ferramentas
-
-<p>
-
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg"/>
-
-<img height="45" src="https://www.vectorlogo.zone/logos/gentoo/gentoo-icon.svg"/>
-
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-
-</p>
-
----
-
-# 📈 Estatísticas
+## 📊 Estatísticas
 
 <p align="center">
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Bevenut0&show_icons=true&theme=dark&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bevenut0&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bevenut0&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Bevenut0&layout=compact&theme=dark&hide_border=true"/>
 </p>
 
 ---
 
-# 🚀 Projetos
+## 🛠️ Stack
 
-### 🌐 Desenvolvimento Web
+### Linguagens
 
-✔ Landing Pages
+<p>
+<img width="42" src="https://skillicons.dev/icons?i=ts,js,python,java,php,html,css"/>
+</p>
 
-✔ Sites institucionais
+### Front-end
 
-✔ Dashboards
+<p>
+<img width="42" src="https://skillicons.dev/icons?i=react,angular,tailwind,bootstrap,sass"/>
+</p>
 
-✔ CRM
+### Back-end
 
-✔ Sistemas Web completos
+<p>
+<img width="42" src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+</p>
 
----
+### Ferramentas
 
-### 🤖 Python
+<p>
+<img width="42" src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+</p>
 
-✔ Automações
+### Sistemas Operacionais
 
-✔ Scripts
-
-✔ Consumo de APIs
-
-✔ Bots
-
-✔ Manipulação de arquivos
-
----
-
-### ☕ Java
-
-✔ Sistemas Desktop
-
-✔ CRUD
-
-✔ Orientação a Objetos
-
-✔ Banco de Dados
+<p>
+<img width="42" src="https://skillicons.dev/icons?i=linux,arch"/>
+<img width="42" src="https://www.vectorlogo.zone/logos/gentoo/gentoo-icon.svg"/>
+</p>
 
 ---
 
-### 🧪 Projetos Científicos
+## 🚀 Projetos
 
-✔ Bioplástico com fibras de coco verde
+💻 **Desenvolvimento Web**
 
-✔ Pesquisa em Química
+- Landing Pages
+- Dashboards
+- CRMs
+- Sistemas Web
+- APIs REST
 
-✔ Desenvolvimento de soluções laboratoriais
+🤖 **Python**
 
----
+- Automações
+- Bots
+- Scripts
+- Manipulação de arquivos
+- Integração com APIs
 
-### 🐧 Linux
+☕ **Java**
 
-✔ Arch Linux
+- Sistemas Desktop
+- CRUD
+- Orientação a Objetos
+- Banco de Dados
 
-✔ Gentoo Linux
+🧪 **Projetos Científicos**
 
-✔ Configuração de Kernel
+- Bioplástico com fibras de coco
+- Pesquisa laboratorial
+- Soluções para laboratórios
 
-✔ Hyprland
+🐧 **Linux**
 
-✔ Shell Scripts
-
-✔ Automação
-
----
-
-# 📖 Atualmente estudando
-
-- Python
-- React
-- Node.js
-- TypeScript
-- Engenharia de Software
-- Linux
-- Inteligência Artificial
-
----
-
-# ☕ Curiosidades
-
-- 📚 Gosto de estudar por documentação.
-- 🤓 Sempre tento entender como as coisas funcionam.
-- ☕ Café é obrigatório.
-- 🐧 Linux é minha plataforma favorita.
-- 😅 Faço piadas ruins.
-
----
-
-<div align="center">
-
-## Obrigado pela visita!
-
-⭐ Não esqueça de conferir meus repositórios.
-
-</div>
-
-```
+- Arch Linux
+- Gentoo Linux
+- Compilação de Kernel
+- Shell Script
+- Hyprland
+- Administração de Sistemas
