@@ -1,116 +1,151 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeThqY3p2a3hldTNsdGR6Y29sN2I2MTNiM295azNodmNxeDAyaWlzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/z8PnRIErvyIp30bG9S/giphy.gif" width="200"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeThqY3p2a3hldTNsdGR6Y29sN2I2MTNiM295azNodmNxeDAyaWlzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/z8PnRIErvyIp30bG9S/giphy.gif" width="220"/>
 </p>
 
-<h1 align="center">👋 Fala Devs! Eu sou o Bevenuto</h1>
+<h1 align="center">👋 Fala, Devs! Eu sou o Bevenuto</h1>
 
 <h3 align="center">
 💻 Desenvolvedor Full Stack • 🐧 Linux Enthusiast • ☕ Coffee Lover
 </h3>
 
 <p align="center">
-    <a href="https://github.com/Bevenut0">
-        <img src="https://img.shields.io/github/followers/Bevenut0?style=for-the-badge&logo=github&label=Followers"/>
-    </a>
-    <img src="https://img.shields.io/badge/Open%20To-Work-success?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Feira%20de%20Santana-BA-blue?style=for-the-badge"/>
+  <a href="https://github.com/Bevenut0">
+    <img src="https://img.shields.io/github/followers/Bevenut0?style=for-the-badge&logo=github&label=Followers"/>
+  </a>
+
+  <img src="https://img.shields.io/badge/Open%20To-Work-success?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/Feira%20de%20Santana-BA-blue?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/Linux-Arch%20%7C%20Gentoo-6C63FF?style=for-the-badge&logo=linux"/>
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+# 👨‍💻 Sobre mim
 
 Olá! Meu nome é **Victor Gabriel**, mas pode me chamar de **Bevenuto**.
 
 🎓 Estudante de **Técnico em Química** e **Técnico em Administração**.
 
-🚀 Desenvolvedor Full Stack com aproximadamente **4 anos** de experiência desenvolvendo aplicações Web.
+💻 Desenvolvo aplicações Web há aproximadamente **4 anos**, criando sistemas completos, automações e interfaces modernas.
 
-💡 Apaixonado por Linux, programação, automações e sempre aprendendo algo novo.
+🚀 Atualmente estou em busca da minha primeira oportunidade profissional como **Desenvolvedor Full Stack**.
+
+💡 Sou apaixonado por tecnologia, Linux, desenvolvimento de software, automação e sempre gosto de aprender algo novo.
 
 ---
 
-## 📊 Estatísticas
+# 📚 Formação
+
+- 📖 Full Stack Python — **EBAC**
+- 🎨 Design Gráfico — **EBAC**
+- 💻 Ex-aluno da **DevClub**
+- 🌐 Desenvolvimento Front-end — **No Grau Técnico**
+
+---
+
+# 📊 Estatísticas
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Bevenut0&show_icons=true&theme=dark&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=Bevenut0&show_icons=true&theme=dark&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Bevenut0&layout=compact&theme=dark&hide_border=true"/>
+  <img width="38%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Bevenut0&layout=compact&theme=dark&hide_border=true"/>
 </p>
 
 ---
 
-## 🛠️ Stack
+# 🚀 Tecnologias
 
-### Linguagens
-
-<p>
-<img width="42" src="https://skillicons.dev/icons?i=ts,js,python,java,php,html,css"/>
-</p>
-
-### Front-end
-
-<p>
-<img width="42" src="https://skillicons.dev/icons?i=react,angular,tailwind,bootstrap,sass"/>
-</p>
-
-### Back-end
-
-<p>
-<img width="42" src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
-</p>
-
-### Ferramentas
-
-<p>
-<img width="42" src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
-</p>
-
-### Sistemas Operacionais
-
-<p>
-<img width="42" src="https://skillicons.dev/icons?i=linux,arch"/>
-<img width="42" src="https://www.vectorlogo.zone/logos/gentoo/gentoo-icon.svg"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,php,react,angular,tailwind,bootstrap,sass,nodejs,express,mongodb,mysql,git,github,vscode,figma,linux,arch&perline=7"/>
+<br><br>
+<img src="https://www.vectorlogo.zone/logos/gentoo/gentoo-icon.svg" height="55" title="Gentoo Linux"/>
 </p>
 
 ---
 
-## 🚀 Projetos
+# 💼 Projetos
 
-💻 **Desenvolvimento Web**
+## 🌐 Desenvolvimento Web
 
-- Landing Pages
-- Dashboards
-- CRMs
-- Sistemas Web
-- APIs REST
+- 🚀 Landing Pages responsivas
+- 📊 Dashboards administrativos
+- 🏥 CRM para gestão hospitalar
+- 🌍 Sites institucionais
+- 🔗 APIs REST
+- 📱 Interfaces modernas com React e TypeScript
 
-🤖 **Python**
+---
 
-- Automações
-- Bots
-- Scripts
-- Manipulação de arquivos
-- Integração com APIs
+## 🤖 Automações com Python
 
-☕ **Java**
+- ⚡ Scripts para automação de tarefas
+- 🤖 Bots
+- 🌐 Consumo de APIs
+- 📂 Manipulação de arquivos
+- 📈 Automação de planilhas
+- 🔄 Integração entre sistemas
 
-- Sistemas Desktop
-- CRUD
-- Orientação a Objetos
-- Banco de Dados
+---
 
-🧪 **Projetos Científicos**
+## ☕ Sistemas em Java
 
-- Bioplástico com fibras de coco
-- Pesquisa laboratorial
-- Soluções para laboratórios
+- 📋 Sistemas de gerenciamento
+- 💾 CRUD
+- 🗃️ Banco de dados
+- 🧩 Orientação a Objetos
 
-🐧 **Linux**
+---
+
+## 🧪 Projetos Científicos
+
+- 🌱 Desenvolvimento de bioplástico com fibras de coco verde
+- 🧫 Pesquisas laboratoriais
+- 🧪 Soluções para laboratórios
+- 📊 Tratamento e análise de dados
+
+---
+
+## 🐧 Linux
 
 - Arch Linux
 - Gentoo Linux
-- Compilação de Kernel
-- Shell Script
 - Hyprland
+- Shell Script
+- Configuração de Kernel
 - Administração de Sistemas
+- Otimização de Ambiente Linux
+
+---
+
+# 📖 Atualmente estudando
+
+- 🐍 Python
+- ⚛️ React
+- 🟦 TypeScript
+- 🟢 Node.js
+- 🏗️ Arquitetura de Software
+- 🤖 Inteligência Artificial
+- 🐧 Linux
+
+---
+
+# ☕ Curiosidades
+
+- 📚 Gosto de estudar através de documentações e livros.
+- 💡 Sempre procuro entender como as tecnologias funcionam internamente.
+- 🐧 Linux é meu sistema operacional favorito.
+- ☕ Um bom café sempre acompanha uma sessão de código.
+- 😅 Faço algumas piadas ruins de vez em quando.
+
+---
+
+<p align="center">
+
+### 🚀 "A melhor forma de aprender é construindo."
+
+⭐ Obrigado por visitar meu perfil!
+
+</p>
+```
