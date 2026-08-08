@@ -148,15 +148,6 @@ Olá! Meu nome é **Victor Gabriel**, mas pode me chamar de **Bevenuto**.
 
 ---
 
-## 🧪 Projetos Científicos
-
-- Bioplástico com fibras de coco verde
-- Pesquisas laboratoriais
-- Desenvolvimento de soluções para laboratório
-- Tratamento e análise de dados
-
----
-
 ## 🐧 Linux
 
 - Gentoo Linux
