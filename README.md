@@ -64,7 +64,7 @@ Olá! Meu nome é **Victor Gabriel**, mas pode me chamar de **Bevenuto**.
 
 <div align="center">
   
-[![Harlok's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=Bevenut0&layout=compact&theme=dark&hide_border=true)](https://github.com/Pranesh-2005/github-readme-stats-fast)
+[![Bevenuto Waka Time Stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=Bevenut0&layout=compact&theme=dark&hide_border=true)](https://github.com/Pranesh-2005/github-readme-stats-fast)
   
 </div>
 ---
