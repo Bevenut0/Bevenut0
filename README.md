@@ -19,7 +19,7 @@
 
 <img src="https://img.shields.io/badge/Feira%20de%20Santana-BA-blue?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Linux-Arch%20%7C%20Gentoo-purple?style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/Linux-Gentoo-purple?style=for-the-badge&logo=linux"/>
 
 </p>
 
