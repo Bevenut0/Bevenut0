@@ -23,8 +23,6 @@
 
 </p>
 
----
-
 # 👨🏻‍💻 Sobre mim
 
 Olá! Meu nome é **Victor Gabriel**, mas pode me chamar de **Bevenuto**.
