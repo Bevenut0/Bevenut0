@@ -41,8 +41,7 @@ Olá! Meu nome é **Victor Gabriel**, mas pode me chamar de **Bevenuto**.
 
 - 📖 Full Stack Python — EBAC
 - 🎨 Design Gráfico — EBAC
-- 💻 DevClub
-- 🌐 Desenvolvimento Front-end — No Grau Técnico
+- 💻 DevClub — FullStack
 
 ---
 
@@ -124,18 +123,6 @@ Olá! Meu nome é **Victor Gabriel**, mas pode me chamar de **Bevenuto**.
 
 ---
 
-## 🤖 Automações com Python
-
-- Scripts para automação
-- Bots
-- Consumo de APIs
-- Manipulação de arquivos
-- Manipulação de planilhas
-- Web Scraping
-- Ferramentas para produtividade
-- Integração entre sistemas
-
----
 
 ## ☕ Sistemas em Java
 
@@ -145,18 +132,6 @@ Olá! Meu nome é **Victor Gabriel**, mas pode me chamar de **Bevenuto**.
 - Orientação a Objetos
 - Interfaces Gráficas
 - Aplicações Acadêmicas
-
----
-
-## 🐧 Linux
-
-- Gentoo Linux
-- Hyprland
-- Shell Script
-- Compilação de Kernel
-- Administração de Sistemas
-- Customização do Ambiente
-- Gerenciamento de Pacotes
 
 ---
 
