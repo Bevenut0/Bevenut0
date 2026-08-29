@@ -51,18 +51,26 @@ Olá! Meu nome é **Victor Gabriel**, mas pode me chamar de **Bevenuto**.
 
 <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=Bevenut0&show_icons=true&theme=dark&hide_border=true"/>
 
-<img width="38%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Bevenut0&layout=compact&theme=dark&hide_border=true"/>
 
 </p>
 
-# ⏳ Tempo 
 
 
+# ⏳ Estatisticas 
 
 <div align="center">
+
+
+<img width="38%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Bevenut0&layout=compact&theme=dark&hide_border=true&hide=lua,EditorConfig,Git,Bash,TsConfig,Other,GitIgnore,Text,Markdown,Image%20(svg),Env%20file,gitignore%20file,Git%20Config,YAML,shell%20script,JSON,SCSS"/>
+</div>
+
+---
+<div align="center">
   
-[![Bevenuto Waka Time Stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=Bevenut0&layout=compact&theme=dark&hide_border=true)](https://github.com/Pranesh-2005/github-readme-stats-fast)
-  
+  <a href="https://github.com/Pranesh-2005/github-readme-stats-fast">
+    <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=Bevenut0&layout=compact&theme=dark&hide_border=true&hide=lua,EditorConfig,Git,Bash,TsConfig,Other,GitIgnore,Text,Markdown,Image%20(svg),Env%20file,gitignore%20file,Git%20Config,YAML,shell%20script,JSON,SCSS" alt="WakaTime Stats" />
+  </a>
+
 </div>
 ---
 
