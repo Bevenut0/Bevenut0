@@ -54,16 +54,6 @@ Olá! Meu nome é **Victor Gabriel**, mas pode me chamar de **Bevenuto**.
 
 </p>
 
-
-
-# ⏳ Estatisticas 
-
-<div align="center">
-
-
-<img width="38%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Bevenut0&layout=compact&theme=dark&hide_border=true&hide=lua,EditorConfig,Git,Bash,TsConfig,Other,GitIgnore,Text,Markdown,Image%20(svg),Env%20file,gitignore%20file,Git%20Config,YAML,shell%20script,JSON,SCSS"/>
-</div>
-
 ---
 <div align="center">
   
@@ -72,6 +62,7 @@ Olá! Meu nome é **Victor Gabriel**, mas pode me chamar de **Bevenuto**.
   </a>
 
 </div>
+
 ---
 
 # 🚀 Tecnologias
